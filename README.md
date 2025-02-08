@@ -1,4 +1,4 @@
-<h1>Hey, I'm Aiden! <a href="https://www.linkedin.com/in/aiden-conley-7204a227b/">Information Technology Student</a>, Lifelong Learner</a></h1>
+<h1>Hey, <a href="https://www.linkedin.com/in/aiden-conley-7204a227b/">I'm Aiden!</a> Information Technology Student, Lifelong Learner</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 -imported soon
